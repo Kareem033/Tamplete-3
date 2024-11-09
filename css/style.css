@@ -1290,7 +1290,6 @@ header .mega-menu .links li a i {
 /* End stats */
 /* Start discount */
 .discount {
-  max-width: 100vh;
   display: flex;
   flex-wrap: wrap;
 }
